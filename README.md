@@ -30,10 +30,8 @@
 <div align="center">
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=fardin36&show_icons=true&count_private=true&theme=monokai&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin36&layout=compact&hide_border=true&theme=github&bg_color=00000000&langs_count=6&exclude_repo=offline-service-sharing-client">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=fardin36&theme=monokai&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin36&layout=compact&hide_border=true&theme=monokai&bg_color=00000000&langs_count=6&exclude_repo=offline-service-sharing-client">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=fardin36&theme=blue-green&hide_border=true&background=0%2CEB545400%2CEB545400">
   <br>
-  
-</div>
 
 ###
