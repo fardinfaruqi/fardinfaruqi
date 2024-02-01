@@ -5,8 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin36&label=Profile%20views&color=0e75b6&style=flat" alt="fardin36" /> </p>
 - 🌱 I’m currently learning **Java & C++**
+
 - 💬 Ask me about **React, JS, Java, C/C++**
+
 - 📫 How to reach me **bahauddinfaruqi@gmail.com**
+
 - ⚡ Fun fact **I'm also interested in Robotics & CP**
 
 ###
