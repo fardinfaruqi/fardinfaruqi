@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/bahauddinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bahauddinfaruqi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bahauddinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahauddinfaruqi" height="30" width="40" /></a>
-<a href="https://fb.com/fardin36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin36" height="30" width="40" /></a>
+<a href="https://fb.com/fardin.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin36" height="30" width="40" /></a>
 <a href="https://instagram.com/fardin.faruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fardin.faruqi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fardin.faruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fardin.faruqi" height="30" width="40" /></a>
 </p>
