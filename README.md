@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **bahauddinfaruqi@gmail.com**
 
-- ⚡ Fun fact **I'm also interested in Robotics & CP**
-
 ###
 
 <h3 align="left">Connect with me:</h3>
