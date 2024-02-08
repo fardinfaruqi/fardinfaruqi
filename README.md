@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=fardin36&label=Profile%20views&color=0e75b6&style=flat" alt="fardin36" />
   <img src="https://wakatime.com/badge/user/018d6515-3dc9-49b0-b053-e7092287bc40.svg" alt="fardin36"/>
 </p>
+
 - 🌱 I’m currently learning **Java & C++**
 
 - 💬 Ask me about **React, JS, Java, C/C++**
