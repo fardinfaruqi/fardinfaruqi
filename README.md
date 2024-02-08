@@ -3,7 +3,10 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fardin36&label=Profile%20views&color=0e75b6&style=flat" alt="fardin36" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=fardin36&label=Profile%20views&color=0e75b6&style=flat" alt="fardin36" />
+  <img src="https://wakatime.com/badge/user/2600ebd3-0b9a-47a2-8f95-a0d4aabc4191.svg" alt="fardin36"/>
+</p>
 - 🌱 I’m currently learning **Java & C++**
 
 - 💬 Ask me about **React, JS, Java, C/C++**
