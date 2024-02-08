@@ -39,6 +39,6 @@
 
 ###
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@fardin36&theme=blue-green" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@fardin36&hide_border=true&bg_color=00000000&theme=blue-green" /></p>
 
 ###
