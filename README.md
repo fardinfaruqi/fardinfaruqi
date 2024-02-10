@@ -5,7 +5,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=fardin36&label=Profile%20views&color=0e75b6&style=flat" alt="fardin36" />
+  <!--
   <img src="https://wakatime.com/badge/user/018d6515-3dc9-49b0-b053-e7092287bc40.svg" alt="fardin36"/>
+  -->
 </p>
 
 - 🌱 I’m currently learning **Java & C++**
@@ -40,6 +42,8 @@
 
 ###
 
+<!--
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=@fardin36&hide_border=true&bg_color=00000000&theme=blue-green" /></p>
+-->
 
 ###
