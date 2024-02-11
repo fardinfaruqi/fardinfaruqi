@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fardin Faruqi</h1>
+<h1 align="center">Hi 👋, I'm Baha Uddin Faruqi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 ###
