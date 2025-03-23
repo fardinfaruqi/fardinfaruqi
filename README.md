@@ -66,7 +66,7 @@
 </p>
 
 ###
-
+<!--
 <div align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=fardinfaruqi&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinfaruqi&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&exclude_repo=offline-service-sharing-client">
@@ -79,3 +79,4 @@
 
 ###
 
+-->
