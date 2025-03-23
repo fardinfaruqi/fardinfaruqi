@@ -4,11 +4,11 @@
 ###
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=fardin36&label=Profile%20views&color=0e75b6&style=flat" alt="fardin36" /> 
+    <img src="https://komarev.com/ghpvc/?username=fardinfaruqi&label=Profile%20views&color=0e75b6&style=flat" alt="fardinfaruqi" /> 
     <img src="https://wakatime.com/badge/user/018d6515-3dc9-49b0-b053-e7092287bc40.svg" alt="fardin36"/>
 </p>
 
-- 🔭 I’m currently working on [Syntax Showdown : Hangman Fusion](https://github.com/fardin36/SyntaxShowdown-Hangman_Fusion)
+- 🔭 I’m currently working on [Syntax Showdown : Hangman Fusion](https://github.com/fardinfaruqi/SyntaxShowdown-Hangman_Fusion)
 
 - 🌱 I’m currently learning **Java, Swing UI, MySQL & C++**
 
@@ -24,7 +24,7 @@
 <a href="https://instagram.com/fardin.faruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fardin.faruqi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fardin.faruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fardin.faruqi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bahauddinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bahauddinfaruqi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fardin.faruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fardin.faruqi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/fardinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fardin.faruqi" height="30" width="40" /></a>
 <a href="https://https://discordapp.com/users/723133972279722066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="723133972279722066" height="30" width="40" /></a>
 <a href="https://judge.beecrowd.com/en/profile/896953" target="blank"><img align="center" src="https://judge.beecrowd.com/img/5.0/logo-beecrowd.png?1700546944" alt="723133972279722066" height="30" width="40" /></a>
 </p>
@@ -68,9 +68,9 @@
 ###
 <!-- 
 <div align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=fardin36&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin36&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&exclude_repo=offline-service-sharing-client">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=fardin36&theme=blue-green&hide_border=true&background=0%2CEB545400%2CEB545400">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=fardinfaruqi&show_icons=true&count_private=true&theme=blue-green&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinfaruqi&layout=compact&hide_border=true&theme=blue-green&bg_color=00000000&langs_count=6&exclude_repo=offline-service-sharing-client">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=fardinfaruqi&theme=blue-green&hide_border=true&background=0%2CEB545400%2CEB545400">
   <br>
 </div>
 ###
