@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baha Uddin Faruqi</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">A passionate Competitive Programmer & Web Developer</h3>
 
 ###
 
@@ -8,11 +8,15 @@
     <img src="https://wakatime.com/badge/user/018d6515-3dc9-49b0-b053-e7092287bc40.svg" alt="fardinfaruqi"/>
 </p>
 
-- 🔭 I’m currently working on [Syntax Showdown : Hangman Fusion](https://github.com/fardinfaruqi/SyntaxShowdown-Hangman_Fusion)
+- 🔭 I’m currently working on:
+  - [Bistro Boss - Modern Restaurant Website](https://github.com/fardinfaruqi/Bistro-Boss-Client-Site)
+  - [CSE Association Feni University Website](https://cafu-official.netlify.app)
 
-- 🌱 I’m currently learning **Java, Swing UI, MySQL & C++**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Computer Network, Operating System & Cyber Security Basics.**
 
 - 📫 How to reach me **bahauddinfaruqi@gmail.com**
+
+- 📃 My Resume - [click here](https://flowcv.com/resume/28fcjnjs6lmt)
 
 ###
 
