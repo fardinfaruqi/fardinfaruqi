@@ -2,15 +2,10 @@
 <h3 align="center">A passionate Competitive Programmer & Web Developer</h3>
 
 ###
+<img src="https://komarev.com/ghpvc/?username=fardinfaruqi&label=Profile%20views&color=0e75b6&style=flat" alt="fardinfaruqi" /> <img src="https://wakatime.com/badge/user/018d6515-3dc9-49b0-b053-e7092287bc40.svg" alt="fardinfaruqi"/> [![codeforces](https://badges.joonhyung.xyz/codeforces/fardinfaruqi.svg?style=plastic)](https://codeforces.com/profile/fardinfaruqi)
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=fardinfaruqi&label=Profile%20views&color=0e75b6&style=flat" alt="fardinfaruqi" /> 
-    <img src="https://wakatime.com/badge/user/018d6515-3dc9-49b0-b053-e7092287bc40.svg" alt="fardinfaruqi"/>
-</p>
-
-- 🔭 I’m currently working on:
-  - [Bistro Boss - Modern Restaurant Website](https://github.com/fardinfaruqi/Bistro-Boss-Client-Site)
-  - [CSE Association Feni University Website](https://cafu-official.netlify.app)
+- 🔭 I’m currently working on: [CSE Association Feni University Website](https://cafu-official.netlify.app)
+  <!-- - [Bistro Boss - Modern Restaurant Website](https://github.com/fardinfaruqi/Bistro-Boss-Client-Site) -->
 
 - 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Computer Network, Operating System & Cyber Security Basics.**
 
@@ -22,15 +17,15 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/bahauddinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bahauddinfaruqi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bahauddinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahauddinfaruqi" height="30" width="40" /></a>
-<a href="https://fb.com/fardin.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin.fb" height="30" width="40" /></a>
-<a href="https://instagram.com/fardin.faruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fardin.faruqi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@FardinFaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fardinfaruqi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fardinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fardinfaruqi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fardinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fardinfaruqi" height="30" width="40" /></a>
-<a href="https://https://discordapp.com/users/723133972279722066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fardinfaruqi" height="30" width="40" /></a>
-<a href="https://judge.beecrowd.com/en/profile/896953" target="blank"><img align="center" src="https://judge.beecrowd.com/img/5.0/logo-beecrowd.png?1700546944" alt="fardinfaruqi" height="30" width="40" /></a>
+    <a href="https://twitter.com/bahauddinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bahauddinfaruqi" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/bahauddinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bahauddinfaruqi" height="30" width="40" /></a>
+    <a href="https://fb.com/fardin.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fardin.fb" height="30" width="40" /></a>
+    <a href="https://instagram.com/fardin.faruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fardin.faruqi" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@FardinFaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fardinfaruqi" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/fardinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fardinfaruqi" height="30" width="40" /></a>
+    <a href="https://codeforces.com/profile/fardinfaruqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fardinfaruqi" height="30" width="40" /></a>
+    <a href="https://https://discordapp.com/users/723133972279722066" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fardinfaruqi" height="30" width="40" /></a>
+    <a href="https://judge.beecrowd.com/en/profile/896953" target="blank"><img align="center" src="https://judge.beecrowd.com/img/5.0/logo-beecrowd.png?1700546944" alt="fardinfaruqi" height="30" width="40" /></a>
 </p>
 
 ###
@@ -38,7 +33,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
     <!-- c/c++ -->
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+    <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> --> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
     <!-- java -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
