@@ -60,7 +60,10 @@
 <!-- HTML5 --> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a>
 </p>
 
+<p align="center"><img src ="https://github-readme-stats-fast.vercel.app/api/streak?username=fardinfaruqi&theme=radical"><img src ="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fardinfaruqi&layout=compact&theme=radical"></p>
+<p align="center"></p>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinfaruqi&show_icons=true&locale=en&layout=compact" alt="fardinfaruqi" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardinfaruqi&show_icons=true&locale=en" alt="fardinfaruqi" /></p> -->
-
-<p align="center"><img src ="https://github-readme-streak-stats.herokuapp.com?user=fardinfaruqi&theme=blue-green&hide_border=true&background=0%2CEB545400%2CEB545400"></p>
+<!-- <p align="center"><img src ="https://github-readme-stats-fast.vercel.app/api?username=fardinfaruqi&show_icons=true&theme=radical"></p> -->
+<!-- <p align="center"><img src ="https://github-readme-stats-fast.vercel.app/api/wakatime?username=fardinfaruqi&theme=blue-green&hide_border=true&background=0%2CEB545400%2CEB545400"></p> -->
